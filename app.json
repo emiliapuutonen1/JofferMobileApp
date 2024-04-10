@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Joffer",
+    "slug": "joffer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "fonts": {
+        "google": [
+          {
+            "family": "Fredoka",
+            "weights": [300, 400, 700]
+          }
+        ]
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "10856408-b30b-42e7-8f66-edca62c2f65d"
+      }
+    },
+    "owner": "emiliapuutonen"
+  }
+}
