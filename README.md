@@ -8,7 +8,7 @@ Joffer revolutionizes the job search process by providing a Tinder-like interfac
 While the Joffer mobile app is still under development, progress is steady. Basic functionalities are being implemented, but there is ongoing work to refine and optimize the app for a seamless user experience.
 
 # Team Collaboration
-Effective collaboration between our team at OAMK and our colleagues at Fontys is crucial for the success of this project. Fontys focuses on backend development to ensure data integrity and security, while our team is dedicated to crafting the frontend experience for mobile devices.
+Effective collaboration between our team at OAMK and our colleagues at Fontys is crucial for the success of this project. Fontys focuses on backend development to ensure data integrity and security, while our team is dedicated to crafting the frontend experience for mobile devices. My responsibilities are in the User side of the app.
 
 # Technologies Used
 Frontend (Mobile): React Native
